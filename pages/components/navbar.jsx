@@ -13,17 +13,19 @@ function NavBar() {
             <a class="flex items-center">
               <BsFillCloudsFill class="mr-3 h-8" />
               <span
-                class="self-center text-xl font-semibold whitespace-nowrap 
+                class="self-center text-2xl font-semibold whitespace-nowrap 
                             dark:text-white"
               >
-                Team CASA
+                Team Kudi
               </span>
             </a>
           </Link>
           <div className="flex space-x-4">
             <div>
               <Link href="">
-                <a className="hover:text-blue-300">Products</a>
+                <a className="text-gray-500 hover:text-green-600 text-xl font-medium">
+                  Products
+                </a>
               </Link>
             </div>
             {/* <div>
@@ -33,7 +35,9 @@ function NavBar() {
             </div> */}
             <div>
               <Link href="/components/aboutus/aboutus">
-                <a className="hover:text-blue-300">About Us</a>
+                <a className=" text-gray-500 hover:text-green-600 text-xl font-medium">
+                  About Us
+                </a>
               </Link>
             </div>
           </div>
