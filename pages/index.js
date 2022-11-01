@@ -14,3 +14,11 @@ export default function Home() {
     </div>
   )
 }
+export async function getServerSideProps(){
+  console.log(process.env.PRIVATE_API_KEY)
+  return {
+    props: {
+      hello: "world"
+    }
+  }
+}
