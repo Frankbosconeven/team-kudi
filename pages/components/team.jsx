@@ -28,7 +28,7 @@ const Team = () => {
               <ul class="flex justify-center mt-4 space-x-4">
                 <li>
                   <a
-                    href="#"
+                    href="https://web.facebook.com/seth.abbey.359"
                     class="text-[#39569c] hover:text-gray-900 dark:hover:text-white"
                   >
                     <svg
@@ -47,7 +47,7 @@ const Team = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/albert-nutifafa-dovlo-b7ab9979/"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
                     <svg
@@ -62,7 +62,7 @@ const Team = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://github.com/Frankbosconeven"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
                     <svg
@@ -132,7 +132,7 @@ const Team = () => {
                 </li> */}
                 <li>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/acquels/"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
                     <svg
@@ -147,7 +147,7 @@ const Team = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://github.com/Akweley"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
                     <svg
@@ -218,7 +218,7 @@ const Team = () => {
                 </li> */}
                 <li>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAB6LF_EB3Gc37DosZQc2Nre0WQYZImPO8rA&keywords=samuel%20sampong&origin=RICH_QUERY_SUGGESTION&position=0&searchId=733ecbdf-c2ce-4afc-96ae-218b92eb450f&sid=(gx"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
                     <svg
@@ -233,7 +233,7 @@ const Team = () => {
                 </li>
                 <li>
                   <a
-                    href="#"
+                    href="https://github.com/skwame49"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
                     <svg
