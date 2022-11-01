@@ -79,7 +79,7 @@ const Team = () => {
                     </svg>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     class="text-[#ea4c89] hover:text-gray-900 dark:hover:text-white"
@@ -97,7 +97,7 @@ const Team = () => {
                       />
                     </svg>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div class="text-center text-gray-500 dark:text-gray-400">
@@ -111,7 +111,7 @@ const Team = () => {
               </h3>
               <p>UI/UX Designer</p>
               <ul class="flex justify-center mt-4 space-x-4">
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     class="text-[#39569c] hover:text-gray-900 dark:hover:text-white"
@@ -129,7 +129,7 @@ const Team = () => {
                       />
                     </svg>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="#"
@@ -164,7 +164,7 @@ const Team = () => {
                     </svg>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     class="text-[#ea4c89] hover:text-gray-900 dark:hover:text-white"
@@ -182,7 +182,7 @@ const Team = () => {
                       />
                     </svg>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div class="text-center text-gray-500 dark:text-gray-400">
@@ -197,7 +197,7 @@ const Team = () => {
               <p>Frontend Developer</p>
               <p>UI/UX Designer</p>
               <ul class="flex justify-center mt-4 space-x-4">
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     class="text-[#39569c] hover:text-gray-900 dark:hover:text-white"
@@ -215,7 +215,7 @@ const Team = () => {
                       />
                     </svg>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="#"
@@ -250,7 +250,7 @@ const Team = () => {
                     </svg>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="#"
                     class="text-[#ea4c89] hover:text-gray-900 dark:hover:text-white"
@@ -268,7 +268,7 @@ const Team = () => {
                       />
                     </svg>
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div class="text-center text-gray-500 dark:text-gray-400">
