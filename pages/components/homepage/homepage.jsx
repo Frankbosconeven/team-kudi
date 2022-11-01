@@ -13,16 +13,16 @@ import Footter from "./footter";
 import CardBox from "./cardbox";
 import Solution from "./solution";
 import Team from "../team";
-import Ui from "../ui";
+// import Ui from "../ui";
 
 const Homepage = () => {
   return (
     <div className="overflow-y-hidden">
       <NavBar />
-      <div className="w-screen h-72 bg-no-repeat bg-center bg-cover bg-[url('https://images.unsplash.com/photo-1600150806193-cf869bcfee05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80')] flex justify-between m-auto ">
+      <div className="w-screen h-72 bg-no-repeat bg-center bg-cover bg-[url('https://images.unsplash.com/photo-1600150806193-cf869bcfee05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80')] flex justify-center m-auto ">
         <div className="flex justify-center items-center text-center">
-          <h5 class="m-10 text-6xl font-serif tracking-tight text-center text-white dark:text-white">
-            Data Driven Lending Opportunity For Farmers
+          <h5 class=" text-3xl pr-20 md:pl-0 md:text-4xl lg:text-6xl font-serif tracking-tight  text-center text-white dark:text-white">
+            Data Driven Lending Opportunity On Farmers
           </h5>
         </div>
       </div>
@@ -31,7 +31,7 @@ const Homepage = () => {
       <Solution />
       <div>
         <div>
-          <Ui />
+          {/* <Ui /> */}
         </div>
         <div>
           <Team />
