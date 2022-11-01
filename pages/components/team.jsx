@@ -17,8 +17,8 @@ const Team = () => {
             <div class="text-center text-gray-500 dark:text-gray-400">
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
-                alt="Bonnie Avatar"
+                src="https://z-m-scontent.facc1-1.fna.fbcdn.net/v/t39.30808-6/312376131_2241584739334934_2211776217794604882_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=106&ccb=1-7&_nc_sid=110474&_nc_ohc=aPwxsnT59uAAX_uSyfi&_nc_ad=z-m&_nc_cid=1334&_nc_eh=34f56e912a8536a85afce91d22898f9f&_nc_zt=23&_nc_rml=0&_nc_ht=z-m-scontent.facc1-1.fna&oh=00_AfAqJR8K3LI1v8EFIFhOzuCp_i1V-_HSmH1PCxXjI61X5w&oe=6367304D"
+                alt="Seth Avatar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <a href="#">Seth Abbey</a>
