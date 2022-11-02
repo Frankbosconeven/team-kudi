@@ -23,8 +23,7 @@ export default function CardBox() {
               </h5>
             </a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Here are the biggest enterprise technology acquisitions of 2021 so
-              far, in reverse chronological order.
+              Farmers lack access to information on good agricultural practices
             </p>
           </div>
         </div>
@@ -45,8 +44,7 @@ export default function CardBox() {
               </h5>
             </a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              Here are the biggest enterprise technology acquisitions of 2021 so
-              far, in reverse chronological order.
+              Out of the total formaing population ,70% are small holder farmers but these farmers lack access to finance to increase their production
             </p>
           </div>
         </div>
