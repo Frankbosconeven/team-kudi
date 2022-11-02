@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { BsFillCloudsFill } from "react-icons/bs";
+import { FiBarChart } from "react-icons/fi";
 function NavBar() {
   return (
     <div>
@@ -11,7 +11,7 @@ function NavBar() {
         <div className="container flex flex-wrap lg:justify-between items-center mx-auto mt-10">
           <Link href="">
             <a class="flex items-center">
-              {/* <BsFillCloudsFill class="mr-3 h-8" /> */}
+              <FiBarChart class="mr-3 h-8" />
               <span
                 class="self-center text-green-700  text-2xl font-semibold whitespace-nowrap 
                             dark:text-white"
@@ -54,7 +54,7 @@ function NavBar() {
       {/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */}
       <nav
         className="bg-green-700 border-gray-200 px-2 sm:px-4 py-2.5 rounded 
-            dark:bg-gray-900"
+            dark:bg-green-700"
       >
         <div className="container flex flex-wrap justify-center gap-5 items-center mx-auto mt-10">
           {/* <Link href="">
