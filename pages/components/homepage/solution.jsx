@@ -3,10 +3,10 @@ import React from "react";
 const Solution = () => {
   return (
     <>
-      <h5 class="mb-1 text-4xl tracking-tight font-sans font-bold text-green-700  flex justify-center mt-24">
+      <h5 class="md:mb-1  text-4xl tracking-tight font-sans font-bold text-green-700  flex justify-center mt-24">
         About Us
       </h5>
-      <div className="flex justify-center items-center text-center m-4 mb-[400px]">
+      <div className="flex justify-center items-center text-center m-4 mb-[200px] md:mb-[250px] lg:mb-[300px]">
         <div class="md:w-[40%] h-[300px] flex text-center justify-center items-center bg-white rounded-lg">
           {/* <h1 className="items-center text-center">Problem3</h1> */}
           <a href="#">
