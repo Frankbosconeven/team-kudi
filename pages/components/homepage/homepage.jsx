@@ -22,7 +22,7 @@ const Homepage = () => {
       <div className="w-screen h-[70vh] bg-no-repeat bg-center bg-cover bg-[url('https://images.pexels.com/photos/767240/pexels-photo-767240.jpeg?cs=srgb&dl=pexels-airin-party-767240.jpg&fm=jpg')] flex justify-center m-auto ">
         <div className="flex justify-center items-center text-center">
           <h3 class=" text-3xl pr-20 md:pl-0 md:text-4xl  lg:text-6xl font-sans tracking-tight  text-center text-white ">
-            Grow what you eat and eat what you grow
+            Grow What You Eat And Eat What You Grow
           </h3>
         </div>
       </div>
