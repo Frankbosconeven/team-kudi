@@ -1,6 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import { FiBarChart } from "react-icons/fi";
+import { ImLocation} from "react-icons/im";
+import { BsFillTelephoneFill} from "react-icons/bs";
+
 function NavBar() {
   return (
     <div>
@@ -23,7 +26,8 @@ function NavBar() {
           <div className="flex space-x-4 gap-8  lg:mr-[40%]">
             <div>
               <Link href="">
-                <a className="text-gray-500 hover:text-green-600 text-xl font-medium">
+                <a className="text-gray-500 hover:text-green-600 text-xl font-medium flex gap-1">
+                  <ImLocation class="mr-3 h-8" />
                   Accra,Ghana
                 </a>
               </Link>
@@ -35,7 +39,8 @@ function NavBar() {
             </div> */}
             <div>
               <Link href="/components/aboutus/aboutus">
-                <a className=" text-gray-500 hover:text-green-600 text-xl font-medium">
+                <a className=" text-gray-500 hover:text-green-600 text-xl font-medium flex gap-1">
+                  <BsFillTelephoneFill class="mr-3 h-8" />
                   0203754879
                 </a>
               </Link>
